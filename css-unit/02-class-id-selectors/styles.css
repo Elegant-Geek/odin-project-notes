@@ -1,0 +1,16 @@
+.class-odd {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.class-cooler {
+    font-size: 24px;
+}
+#one-id {
+    color: blue;
+    font-size: 36px;
+}
+#two-id {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
